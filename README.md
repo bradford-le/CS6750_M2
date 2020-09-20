@@ -1,3 +1,4 @@
 # CS6750_M2
-Repo for M2 results
-This repo is to upload results for Assignment M2
+Results for Assignment M2
+Survey responses
+Interview responses
